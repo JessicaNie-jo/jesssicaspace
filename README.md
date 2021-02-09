@@ -8,7 +8,13 @@
 </head>  
 
 <body>
-	<p>Location: China, Beijing  
+	<div class="image-mosaic">
+  <div
+    class="card card-tall card-wide"
+    style="background-image: cafe1.gif"
+       ></div>
+		
+<p>Location: China, Beijing  
 	Photo by Jessica Nie<br></p>
  <body style="background-color:lightyellow;">
 <figure class="hover-menu">
