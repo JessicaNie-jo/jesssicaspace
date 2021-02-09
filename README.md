@@ -11,8 +11,8 @@
 <body>
 	<p>Location: China, Beijing  
 	Photo by Jessica Nie<br></p>
-	  background-image: url("cafe1.gif");
-    	<body style="background-color:lightyellow;">
+ 
+background-image: url("cafe1.gif");<body style="background-color:lightyellow;">
 <figure class="hover-menu">
   <img src="co1.jpg" />
   <div>
