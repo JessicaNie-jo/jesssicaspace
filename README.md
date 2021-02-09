@@ -3,17 +3,33 @@
 
    <meta name="viewport" content="text/html; charset=utf-8"/>
         <title>coffee plog during pandemic (Jessica Nie)</title>
-        <meta charset="utf-8"/>  
-	
+        <meta charset="utf-8"/>  	
 </head>  
 
-<body>
-	<div class="image-mosaic">
-  <div
-    class="card card-tall card-wide"
-    style="background-image: cafe1.gif"
-       ></div>
-		
+<body>	
+	<style>
+body {
+  background-image: url("cafe1.gif");
+}
+</style>
+ <div>
+         
+  <div id="HomePage"> <h1 id="Welcome">Welcome</h1>
+
+  <h1><i>to <a href="Jessica">Jessica Nie</a>'s page!</i></h1>
+                               <div class="divider"></div>
+                            
+</div>
+
+<h3 style="border: 5px solid orange;">CAFE MAP</h3>
+<h3 style="border: 5px solid green;">MENU</h3>
+<h3 style="border: 5px solid purple;">Location</h3>
+
+<p>Location: China, Beijing  
+		Photo by Jessica Nie<br></p>
+    	<body style="background-color:lightyellow;">
+
+<style>
 <p>Location: China, Beijing  
 	Photo by Jessica Nie<br></p>
  <body style="background-color:lightyellow;">
@@ -33,5 +49,26 @@
 <h3 style="border: 5px solid orange;">CAFE MAP</h3>
 <h3 style="border: 5px solid green;">MENU</h3>
 <h3 style="border: 5px solid purple;">Location</h3>
+
+
+
+
+<h1>TianROAST</h1>
+<p>Location: 798 street</p>
+<div class="coffee">
+  <a target="_blank" href="co1.jpg">
+    <img src="co1.jpg" alt="co1" width="600" height="400">
+  </a>
+  <div class="desc">photo 1</div>
+</div>
+
+<div class="coffee">
+  <a target="_blank" href="co2.jpg">
+    <img src="co2.jpg" alt="co2" width="600" height="400">
+  </a>
+  <div class="desc">photo 2</div>
+</div>
+
+
 
 </body>
