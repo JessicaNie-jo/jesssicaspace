@@ -1,9 +1,16 @@
   <head>
     	<title>Beijing Coffee Map</title>
+<style>
+ 
+   h1 {font-size: 250%;}
+   h1 {color: white;}
+   h2{color: yellow;}
+   h2 {font-size: 300%;}
+   h3{color: pink;}
+   p {color: orange;}
+   div {color: pink;}
 
-   <meta name="viewport" content="text/html; charset=utf-8"/>
-        <title>coffee plog during pandemic (Jessica Nie)</title>
-        <meta charset="utf-8"/>  	
+  </style>
 </head>  
 
 <body>	
@@ -21,11 +28,9 @@ body {
                             
 </div>
 
-
-<style>
 <p>Location: China, Beijing  
 	Photo by Jessica Nie<br></p>
- <body style="background-color:lightyellow;">
+ <body style="background-color:lightblue;">
 <figure class="hover-menu">
 
   <div>
@@ -38,7 +43,6 @@ body {
 <h3 style="border: 5px solid orange;">CAFE MAP</h3>
 <h3 style="border: 5px solid green;">MENU</h3>
 <h3 style="border: 5px solid purple;">LOCATION</h3>
-
 
 
 
@@ -57,7 +61,50 @@ body {
   </a>
   <div class="desc">photo 2</div>
 </div>
+<div class="coffee">
+  <a target="_blank" href="co3.jpg">
+    <img src="co3.jpg" alt="co3" width="600" height="400">
+  </a>
+  <div class="desc">photo 3</div>
+</div>
 
+<div class="coffee">
+  <a target="_blank" href="co4.jpg">
+    <img src="co4.jpg" alt="co4" width="600" height="400">
+  </a>
+  <div class="desc">photo 4</div>
+</div>
+
+<h1>CABO CAFE</h1>
+<p>Location:  Tiantan, Beijing street No.13 </p>
+    	
+<div class="coffee">
+  <a target="_blank" href="co5.jpg">
+    <img src="co5.jpg" alt="co1" width="600" height="400">
+  </a>
+  <div class="desc">photo 5</div>
+</div>
+
+<div class="coffee">
+  <a target="_blank" href="co6.jpg">
+    <img src="co6.jpg" alt="co2" width="600" height="400">
+  </a>
+  <div class="desc">photo 6</div>
+</div>
+
+<div class="coffee">
+  <a target="_blank" href="co7.jpg">
+    <img src="co7.jpg" alt="co3" width="600" height="400">
+  </a>
+  <div class="desc">photo 7</div>
+</div>
+
+<div class="coffee">
+  <a target="_blank" href="co8.jpg">
+    <img src="co8.jpg" alt="co4" width="600" height="400">
+  </a>
+  <div class="desc">photo 8</div>
+</div>
 
 
 </body>
