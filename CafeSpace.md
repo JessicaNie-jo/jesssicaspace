@@ -1,16 +1,5 @@
   <head>
     	<title>Beijing Coffee Map</title>
-<style>
- 
-   h1 {font-size: 250%;}
-   h1 {color: white;}
-   h2{color: yellow;}
-   h2 {font-size: 300%;}
-   h3{color: pink;}
-   p {color: orange;}
-   div {color: pink;}
-
-  </style>
 </head>  
 
 <body>	
