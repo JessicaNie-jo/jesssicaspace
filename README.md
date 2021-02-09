@@ -4,7 +4,7 @@
 
 <body>	
 	<style>
-body {background-image: url("cafe2.jpg");}
+body {background-image: url("cafe1.gif");}
 		
  <h1="color: Purple;">
   h1 {font-size: 250%;}
