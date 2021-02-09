@@ -13,15 +13,16 @@
 	Photo by Jessica Nie<br></p>
  <body style="background-color:lightyellow;">
 <figure class="hover-menu">
-  <img src="co1.jpg" />
-  <img src="co2.jpg" />
-  <img src="co3.jpg" />
-  <img src="co4.jpg" />
+
   <div>
     <a href="#">CAFE MAP</a>
     <a href="#">FLAVOUR</a>
     <a href="#">About</a>
   </div>
+    <img src="co1.jpg" />
+  <img src="co2.jpg" />
+  <img src="co3.jpg" />
+  <img src="co4.jpg" />
 </figure>
 
 <h3 style="border: 5px solid orange;">CAFE MAP</h3>
