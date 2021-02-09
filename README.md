@@ -4,16 +4,16 @@
 
 <body>	
 	<style>
-body {
-  background-image: url("cafe1.gif");
-}
+body {background-image: url("cafe1.gif");}
+		
+ <h1="color: Purple;">
   h1 {font-size: 250%;}
-    h1 {color: white;}
-    h2{color: yellow;}
+    h2{color: orange;}
     h2 {font-size: 300%;}
     h3{color: pink;}
-    p {color: orange;}
+    p {color: yellow;}
     div {color: pink;}
+    
 </style>
  <div>
          
@@ -26,7 +26,6 @@ body {
 
 <p>Location: China, Beijing  
 	Photo by Jessica Nie<br></p>
- <body style="background-color:lightblue;">
 <figure class="hover-menu">
 
   <div>
