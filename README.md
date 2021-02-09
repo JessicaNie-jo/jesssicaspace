@@ -21,13 +21,6 @@ body {
                             
 </div>
 
-<h3 style="border: 5px solid orange;">CAFE MAP</h3>
-<h3 style="border: 5px solid green;">MENU</h3>
-<h3 style="border: 5px solid purple;">Location</h3>
-
-<p>Location: China, Beijing  
-		Photo by Jessica Nie<br></p>
-    	<body style="background-color:lightyellow;">
 
 <style>
 <p>Location: China, Beijing  
@@ -36,19 +29,15 @@ body {
 <figure class="hover-menu">
 
   <div>
-    <a href="#">CAFE MAP</a>
+    <a href="#">FIND MORE</a>
     <a href="#">FLAVOUR</a>
-    <a href="#">About</a>
+    <a href="#">ABOUT</a>
   </div>
-    <img src="co1.jpg" />
-  <img src="co2.jpg" />
-  <img src="co3.jpg" />
-  <img src="co4.jpg" />
 </figure>
 
 <h3 style="border: 5px solid orange;">CAFE MAP</h3>
 <h3 style="border: 5px solid green;">MENU</h3>
-<h3 style="border: 5px solid purple;">Location</h3>
+<h3 style="border: 5px solid purple;">LOCATION</h3>
 
 
 
@@ -57,14 +46,14 @@ body {
 <p>Location: 798 street</p>
 <div class="coffee">
   <a target="_blank" href="co1.jpg">
-    <img src="co1.jpg" alt="co1" width="600" height="400">
+    <img src="co1.jpg" alt="co1" width="600">
   </a>
   <div class="desc">photo 1</div>
 </div>
 
 <div class="coffee">
   <a target="_blank" href="co2.jpg">
-    <img src="co2.jpg" alt="co2" width="600" height="400">
+    <img src="co2.jpg" alt="co2" width="600">
   </a>
   <div class="desc">photo 2</div>
 </div>
