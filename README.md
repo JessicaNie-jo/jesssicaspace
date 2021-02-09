@@ -11,7 +11,7 @@ body {background-image: url("cafe2.jpg");}
     h2{color: orange;}
     h2 {font-size: 300%;}
     h3{color: pink;}
-    p {color: yellow;}
+    p {color: black;}
     div {color: pink;}
     
 </style>
