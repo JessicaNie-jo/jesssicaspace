@@ -11,10 +11,12 @@
 <body>
 	<p>Location: China, Beijing  
 	Photo by Jessica Nie<br></p>
- 
-background-image: ("cafe1.gif");<body style="background-color:lightyellow;">
+ <body style="background-color:lightyellow;">
 <figure class="hover-menu">
   <img src="co1.jpg" />
+  <img src="co2.jpg" />
+  <img src="co3.jpg" />
+  <img src="co4.jpg" />
   <div>
     <a href="#">CAFE MAP</a>
     <a href="#">FLAVOUR</a>
@@ -29,4 +31,3 @@ background-image: ("cafe1.gif");<body style="background-color:lightyellow;">
 	
 
 </body>
-</html>
