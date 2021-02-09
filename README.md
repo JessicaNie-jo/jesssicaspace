@@ -19,7 +19,7 @@ body {background-image: url("cafe2.jpg");}
          
   <div id="HomePage"> <h1 id="Welcome">Welcome</h1>
 
-  <h1><i>to <a href="Jessica">Jessica Nie</a>'s page!</i></h1>
+  <h1><i><a href="Jessica">Jessica</a>'s space!</i></h1>
                                <div class="divider"></div>
                             
 </div>
