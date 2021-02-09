@@ -28,6 +28,4 @@
 <h3 style="border: 5px solid green;">MENU</h3>
 <h3 style="border: 5px solid purple;">Location</h3>
 
-	
-
 </body>
