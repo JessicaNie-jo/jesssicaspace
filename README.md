@@ -44,31 +44,13 @@ body {background-image: url("cafe2.jpg");}
 <h1>TianROAST</h1>
 <p>Location: 798 street</p>
 <div class="coffee">
-  <a target="_blank" href="co1.jpg">
-    <img src="co1.jpg" alt="co1" width="600">
+  <a target="_blank" href="cafe1.png">
+    <img src="cafe1.png" alt="cafe1">
   </a>
   <div class="desc">photo 1</div>
 </div>
 
-<div class="coffee">
-  <a target="_blank" href="co2.jpg">
-    <img src="co2.jpg" alt="co2" width="600">
-  </a>
-  <div class="desc">photo 2</div>
-</div>
-<div class="coffee">
-  <a target="_blank" href="co3.jpg">
-    <img src="co3.jpg" alt="co3" width="600" height="400">
-  </a>
-  <div class="desc">photo 3</div>
-</div>
 
-<div class="coffee">
-  <a target="_blank" href="co4.jpg">
-    <img src="co4.jpg" alt="co4" width="600" height="400">
-  </a>
-  <div class="desc">photo 4</div>
-</div>
 
 <h1>CABO CAFE</h1>
 <p>Location:  Tiantan, Beijing street No.13 </p>
