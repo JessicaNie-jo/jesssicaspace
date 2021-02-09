@@ -47,7 +47,7 @@ body {background-image: url("cafe2.jpg");}
   <a target="_blank" href="cafe1.png">
     <img src="cafe1.png" alt="cafe1">
   </a>
-  <div class="desc">photo 1</div>
+  <div class="desc">PHOTO ONE</div>
 </div>
 
 
@@ -56,31 +56,10 @@ body {background-image: url("cafe2.jpg");}
 <p>Location:  Tiantan, Beijing street No.13 </p>
     	
 <div class="coffee">
-  <a target="_blank" href="co5.jpg">
-    <img src="co5.jpg" alt="co1" width="600" height="400">
+  <a target="_blank" href="cafe2.png">
+    <img src="cafe2.png" alt="cafe2" >
   </a>
-  <div class="desc">photo 5</div>
-</div>
-
-<div class="coffee">
-  <a target="_blank" href="co6.jpg">
-    <img src="co6.jpg" alt="co2" width="600" height="400">
-  </a>
-  <div class="desc">photo 6</div>
-</div>
-
-<div class="coffee">
-  <a target="_blank" href="co7.jpg">
-    <img src="co7.jpg" alt="co3" width="600" height="400">
-  </a>
-  <div class="desc">photo 7</div>
-</div>
-
-<div class="coffee">
-  <a target="_blank" href="co8.jpg">
-    <img src="co8.jpg" alt="co4" width="600" height="400">
-  </a>
-  <div class="desc">photo 8</div>
+  <div class="desc">PHOTO TWO</div>
 </div>
 
 
