@@ -1,5 +1,8 @@
-  <head>
-    	<title>Beijing Coffee Map</title>
+ <!doctype html>
+<head>
+	<meta charset="UTF-8">
+	<title>Beijing cafe map</title>
+  
 </head>  
 
 <body>	
@@ -64,3 +67,4 @@ body {background-image src="bg1.jpg";}
 
 
 </body>
+</html>
