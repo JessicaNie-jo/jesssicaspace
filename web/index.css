@@ -1,0 +1,80 @@
+            body {
+                margin: 0;
+                padding: 0;
+                background: url(images/背景.jpg);
+            }
+            
+            .all {
+                width: 90%;
+                margin: 0 auto;
+            }
+            
+            .head {
+                width: 90%;
+                margin: 0 auto;
+                padding-top: 100px;
+            }
+            
+            .head-l {
+                width: 55%;
+                border-right: 2px black solid;
+                float: left;
+            }
+            
+            .head-l p {
+                font-size: 60px;
+                font-family: Hanson Bold;
+                width: 500px;
+                padding-left: 100px;
+                color: yellow;
+                font-weight: bolder;
+            }
+            
+            .head-r {
+                width: 200px;
+                height: 100px;
+                border: 7px pink solid;
+                float: right;
+                margin: 80px 150px 0 0;
+            }
+            
+            .head-r p {
+                font-size: 30px;
+                padding: 5px 0 0 20px;
+            }
+            
+            .place {
+                margin: 300px auto;
+                font-size: 60px;
+                width: 50%;
+                padding-left: 300px;
+            }
+            
+            .content {
+                width: 60%;
+                margin: -210px auto;
+            }
+            
+            .content-l {
+                writing-mode: tb-rl;
+                float: left;
+                font-size: 50px;
+            }
+            
+            .content-r {
+                width: 80%;
+                font-size: 30px;
+                margin: 0 auto;
+                padding-left: 150px;
+                color: blue;
+            }
+            
+            .bottom {
+                width: 60%;
+                margin: 0 auto;
+            }
+            
+            .bottom img {
+                width: 100%;
+                margin-top: 40px;
+            }
